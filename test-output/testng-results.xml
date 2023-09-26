@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-28T10:30:03 GST" name="Default Suite" finished-at="2023-08-28T10:30:10 GST" duration-ms="6694">
+    <groups>
+    </groups>
+    <test started-at="2023-08-28T10:30:03 GST" name="Assignment-master" finished-at="2023-08-28T10:30:10 GST" duration-ms="6694">
+      <class name="com.qa.web.test.SampleTest">
+        <test-method signature="actionClassImplementation()[pri:0, instance:com.qa.web.test.SampleTest@68e965f5]" started-at="2023-08-28T10:30:03 GST" name="actionClassImplementation" finished-at="2023-08-28T10:30:10 GST" duration-ms="6681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actionClassImplementation -->
+      </class> <!-- com.qa.web.test.SampleTest -->
+    </test> <!-- Assignment-master -->
+  </suite> <!-- Default Suite -->
+</testng-results>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Assignment ">
+
+
+    <test name="Web Test">
+        <classes>
+            <class name="com.qa.web.test.JordanSubscriptionTest"></class>
+            <class name="com.qa.web.test.OmanSubscriptionTest"></class>
+            <class name="com.qa.web.test.UAESubscriptionTest"></class>
+        </classes>
+    </test>
+   </suite>

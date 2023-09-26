@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="UI Automation Assignment ">
+
+    <listeners>
+        <listener class-name="com.qa.web.testReport.ExtentReportListener"/>
+    </listeners>
+
+
+    <test name="UAE Test Cases">
+        <classes>
+            <class name="com.qa.web.test.UAESubscriptionTest"></class>
+
+        </classes>
+    </test>
+    <test name="Oman Test Cases">
+        <classes>
+            <class name="com.qa.web.test.OmanSubscriptionTest"></class>
+
+        </classes>
+    </test>
+    <test name="Jordan Test Cases">
+        <classes>
+
+            <class name="com.qa.web.test.JordanSubscriptionTest"></class>
+
+        </classes>
+    </test>
+</suite>
